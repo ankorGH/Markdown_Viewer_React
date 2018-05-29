@@ -1,0 +1,12 @@
+.editor {
+  text-align: justify;
+  float: left;
+  width: 40vw;
+  height: 85vh;
+  border: 2px solid greenyellow;
+  padding: 40px 20px;
+  margin: 10px;
+
+  font-family: "Times New Roman", Times, serif;
+  font-size: 14px;
+}
